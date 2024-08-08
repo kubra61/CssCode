@@ -1,0 +1,20 @@
+.border1{
+    border: 3px dashed red;
+}
+.border2{
+    border-left: 3px groove blue;
+    border-top: 13px groove rgb(67, 67, 156);
+    padding: 1rem;
+}
+.border3{
+    border: 12px outset purple;
+}
+.border4{
+    border: 12px inset purple;
+    border-radius: 10px 20px 0 35px;
+    -webkit-border-radius: 10px 20px 0 35px;
+    -moz-border-radius: 10px 20px 0 35px;
+    -ms-border-radius: 10px 20px 0 35px;
+    -o-border-radius: 10px 20px 0 35px;
+    text-align: center;
+}

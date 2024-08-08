@@ -1,0 +1,17 @@
+h1.baslik{
+    display: inline-block;
+    background-color: aqua;
+    padding: 2rem;
+    text-align: center;
+}
+span.span-el{
+    background-color: red;
+    display: block;
+    height: 45px;
+    width: 50px;
+}
+em{
+    display: inline-block;
+    background-color: rgb(92, 131, 53);
+    color: aliceblue;
+}

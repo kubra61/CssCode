@@ -1,0 +1,19 @@
+div.bg{
+    padding: 50px;
+    margin-bottom: 30px;
+}
+.bg1{
+    background-image: linear-gradient(green,yellow);
+}
+.bg2{
+    background-image: linear-gradient(to right,blue,cyan);
+}
+.bg3{
+    background-image: linear-gradient(78deg,rgb(185,142,43),rgb(208,0,225));
+}
+.bg4{
+    background-image: linear-gradient(red 30%,yellow 30%);
+}
+.bg5{
+  background-image: radial-gradient(circle,cyan,crimson);
+}

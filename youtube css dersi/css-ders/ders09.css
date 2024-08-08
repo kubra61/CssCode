@@ -1,0 +1,21 @@
+table{
+    width: 100%;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#tablo th{
+    background-color: green;
+    color: floralwhite;
+
+}
+
+#tablo tr:nth-child(even){
+    background-color: lightgrey;
+}
+
+#tablo tr:hover{
+    background-color: orange;
+}

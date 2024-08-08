@@ -1,0 +1,9 @@
+.kutu1{
+    background-image:url(/css-ders/png-transparent-coffee-cup-espresso-coffee-cup-logo-teacup-coffee.png);
+    background-size: cover;
+    background-position:center;
+    width: 300px;
+    height: 300px;
+    border: 5px solid red;
+    color: white;
+}

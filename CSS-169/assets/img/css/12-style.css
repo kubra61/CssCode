@@ -1,0 +1,13 @@
+nav.menu{
+    background-color: aqua;
+    top: 10px;
+    left: 10px;
+    font-size: 3rem;
+    position: fixed;
+}
+table.pratice-list thead{
+    background-color: rgb(55,255,0);
+    font-size: 2rem;
+    position: sticky;
+    top: 50px;
+}

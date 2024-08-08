@@ -1,0 +1,14 @@
+.metin{
+    color: red;
+    background-color: antiquewhite;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    font-style: italic;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-decoration: underline;
+    word-spacing: 6px;
+
+}
